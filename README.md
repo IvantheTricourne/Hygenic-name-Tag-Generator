@@ -1,4 +1,4 @@
-# The (simple) Hygenic-Name Tag Generator
+# The (simple) Name Tag Generator
 
 This is a simple HTML app written using Elm. Using it is easy!
 
